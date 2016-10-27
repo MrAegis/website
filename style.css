@@ -1,0 +1,117 @@
+@import 'https://fonts.googleapis.com/css?family=Monda:100, 300, 400, 700';
+* {
+  font-family: 'Monda', sans-serif;
+  font-size: 18px;
+}
+body {
+  background-color: #272626;
+}
+h3 {
+  text-align: center;
+}
+.box1 {
+  box-sizing: border-box;
+  text-align: center;
+  width:100%;
+  color: #FFF;
+  padding-top:75px;
+  padding-bottom:20px;
+  margin:0;
+  border-bottom: 2px solid darkgreen;
+}
+.btn {
+  float: right;
+  margin-right:5px;
+}
+.box2 {
+  box-sizing: border-box;
+  padding-top:20px;
+  padding-bottom:20px;
+  color: #FFF;
+  width:100%;
+  border-bottom: 2px solid darkgreen;
+}
+
+.box3 {
+  box-sizing: border-box;
+  text-align: center;
+  padding-top:40px;
+  padding-bottom:20px;
+  width:100%;
+  border-bottom: 2px solid darkgreen;
+}
+.box4 {
+  box-sizing: border-box;
+  padding-top:40px;
+  padding-bottom:20px;
+  width:100%;
+  color: white;
+  border-bottom: 2px solid darkgreen;
+}
+
+.box5 {
+  box-sizing: border-box;
+  padding-top: 20px;
+  padding-bottom:20px;
+  width:100%;
+}
+
+td > a > img {
+  margin:10px;
+}
+
+a {
+  box-sizing: border-box;
+}
+
+table {
+  margin: auto;
+  color: white;
+}
+
+form {
+  margin: 5px;
+}
+input {
+  box-sizing: border-box;
+  text-align: center;
+  width: 560px;
+  border-radius: 3px;
+  background-color: #333;
+  border: 2px solid #232323;
+  color: #FFF;
+}
+textarea {
+  box-sizing: border-box;
+  color: #FFF;
+  border-radius: 3px;
+  background-color: #333;
+  border: 2px solid #232323;
+}
+.border {
+  border-right: 2px solid darkgreen;
+}
+.member {
+  font-size:18px;
+  color: #333;
+}
+.formbtn {
+  margin: 5px;
+  color:#FFF;
+  background-color: #34ba3d;     
+  color:white;
+  font-family: Verdana, sans-serif;
+  border-radius: 3px;
+  font-size:18px;
+  width: 200px;
+  border: 2px solid #287c2e;
+}
+/
+ul, li {
+  margin-top: -20px;
+  padding-top: -20px;
+}
+.list {
+  margin-bottom: 2px;
+  padding-bottom: 2px;
+}
