@@ -80,6 +80,7 @@ input {
   background-color: #333;
   border: 2px solid #232323;
   color: #FFF;
+  margin-top: 5px;
 }
 textarea {
   box-sizing: border-box;
@@ -87,6 +88,7 @@ textarea {
   border-radius: 3px;
   background-color: #333;
   border: 2px solid #232323;
+  margin: 5px;
 }
 .border {
   border-right: 2px solid darkgreen;
@@ -96,7 +98,6 @@ textarea {
   color: #333;
 }
 .formbtn {
-  margin: 5px;
   color:#FFF;
   background-color: #34ba3d;     
   color:white;
