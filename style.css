@@ -95,7 +95,7 @@ textarea {
 }
 .member {
   font-size:18px;
-  color: #333;
+  color: #888;
 }
 .formbtn {
   color:#FFF;
@@ -106,12 +106,4 @@ textarea {
   font-size:18px;
   width: 200px;
   border: 2px solid #287c2e;
-}
-ul, li {
-  margin-top: -20px;
-  padding-top: -20px;
-}
-.list {
-  margin-bottom: 2px;
-  padding-bottom: 2px;
 }
